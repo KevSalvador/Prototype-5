@@ -152,6 +152,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6541704bb00a493697bd0e1e5357025, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  targets:
+  - {fileID: 1724442679034694126, guid: 163d12547cc0947bba11cbf201c68052, type: 3}
+  - {fileID: 1898876529503913806, guid: d1f7b9efca8264e2b815d9ec94f8ecc8, type: 3}
+  - {fileID: 2521599676923372440, guid: 368be5b2c6bc94160a5bdade36db139a, type: 3}
+  - {fileID: 4821206780514689280, guid: 031bef87323c94bec95b8cab074852f2, type: 3}
 --- !u!4 &43456302
 Transform:
   m_ObjectHideFlags: 0
